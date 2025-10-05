@@ -1,0 +1,27 @@
+# .gitignore for Samurai Saga Python project
+# This file tells git which files and folders to ignore in this repository.
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+ENV/
+.env
+.Python
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store/
